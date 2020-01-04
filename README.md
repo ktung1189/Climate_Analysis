@@ -42,7 +42,7 @@ Using Jupyter Notebook, connect to database and do data analysis to gain intelli
 
 ## Conclusion
 
-**Anaylis of Hawaii Data**
+**Anaylsis of Hawaii Data**
 - The data suggests that majority of precipitation occurs from March to September whichs suggest this might been the rainy season for Hawaii. The precipitation graph shows that there is a major spike in March strecting to September. Then in months between there is a lower level of precipitation.
 
 - The temperature range for Hawaii seems to be between 70 and 80 degrees which has the most frequencies of occurring according to the Station Analysis chart. So majority of the temperature ranges are in that range for the whole year from 08-24-16 to 08-23-17.
